@@ -1,0 +1,45 @@
+/*Write your style here*/
+
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+/*controlador1*/
+.co1{
+	color: #FFF;
+	font-size: 15px;
+	font-family: arial;
+	background: url("../images/1.jpg") no-repeat;
+	background-attachment: fixed; 
+	background-position:center;
+	background-size:cover;
+	width: 1279px;
+	height: 570px;
+}
+
+h1{
+	color: #FFF;
+	font-size: 50px;
+	font-family: arial;
+	text-align: center;
+	top: 25%;
+}
+
+img{
+
+	width: 50%;
+	height: 100px;
+}
+
+.co3{
+
+	width: 30%;
+	padding-top:1%;
+	padding-left:30%;
+	padding-right:60%;
+}
